@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{EA997193-6BFC-455A-8AD5-32C0349CBD91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{04A1EA6B-C11D-4429-AC02-0584B5E7252E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EA997193-6BFC-455A-8AD5-32C0349CBD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA997193-6BFC-455A-8AD5-32C0349CBD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA997193-6BFC-455A-8AD5-32C0349CBD91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A1EA6B-C11D-4429-AC02-0584B5E7252E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A1EA6B-C11D-4429-AC02-0584B5E7252E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A1EA6B-C11D-4429-AC02-0584B5E7252E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A1EA6B-C11D-4429-AC02-0584B5E7252E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
